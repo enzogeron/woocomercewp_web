@@ -1,0 +1,12 @@
+wp-config.php
+/wp-config.php
+./wp-config.php
+.htaccess
+/.htaccess
+./htaccess
+/wp-content/cache/*
+/wp-content/uploads/*
+
+wp-content/themes/\.DS_Store
+
+*.htaccess
